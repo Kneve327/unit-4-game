@@ -125,52 +125,142 @@ $("#jackimage").click(function() {
        //}else if ((rnOne > 0) && (rnTwo > 0)) {
 
         
-       }
+    };
     //}
+
+    if((yourCharacter = "Jack") && (name = "Mayor")) {
+
+        rnOne = (rnOne - enemyAttacksYou);
+        console.log(rnOne);
+        $("#rnOne").text(rnOne);
+    
+        rnEleven = (rnThree - attackEnemy);
+        console.log(rnEleven + "Mayorrrrr");
+        $("#rnEleven").text(rnEleven);
+    
+    };
+    
+    if((yourCharacter = "Jack") && (name = "Oogie Boogie")) {
+    
+        rnOne = (rnOne - enemyAttacksYou);
+        console.log(rnOne);
+        $("#rnOne").text(rnOne);
+    
+        rnTwelve = (rnFour - attackEnemy);
+        console.log(rnTwelve);
+        $("#rnTwelve").text(rnTwelve);
+    
+    };
+    
+    if((yourCharacter = "Barrel") && (name = "Jack")) {
+    
+        rnTwo = (rnTwo - enemyAttacksYou);
+        console.log(rnTwo);
+        $("#rnTwo").text(rnTwo);
+    
+        rnNine = (rnOne - attackEnemy);
+        console.log(rnNine);
+        $("#rnNine").text(rnNine);
+    
+    };
+    
+    if((yourCharacter = "Barrel") && (name = "Mayor")) {
+    
+        rnTwo = (rnTwo - enemyAttacksYou);
+        console.log(rnTwo);
+        $("#rnTwo").text(rnTwo);
+    
+        rnEleven = (rnThree - attackEnemy);
+        console.log(rnEleven);
+        $("#rnEleven").text(rnEleven);
+    
+    };
+    
+    if((yourCharacter = "Barrel") && (name = "Oogie Boogie")) {
+    
+        rnTwo = (rnTwo - enemyAttacksYou);
+        console.log(rnTwo);
+        $("#rnTwo").text(rnTwo);
+    
+        rnTwelve = (rnFour - attackEnemy);
+        console.log(rnTwelve);
+        $("#rnTwelve").text(rnTwelve);
+    
+    };
+    
+    if((yourCharacter = "Mayor") && (name = "Jack")) {
+    
+        rnThree = (rnThree - enemyAttacksYou);
+        console.log(rnThree);
+        $("#rnThree").text(rnThree);
+    
+        rnNine = (rnOne - attackEnemy);
+        console.log(rnNine);
+        $("#rnNine").text(rnNine);
+    
+    };
+    
+    if((yourCharacter = "Mayor") && (name = "Barrel")) {
+    
+        rnThree = (rnThree - enemyAttacksYou);
+        console.log(rnThree);
+        $("#rnThree").text(rnThree);
+    
+        rnTen = (rnTwo - attackEnemy);
+        console.log(rnTen);
+        $("#rnTen").text(rnTen);
+    
+    };
+    
+    if((yourCharacter = "Mayor") && (name = "Oogie Boogie")) {
+    
+        rnThree = (rnThree - enemyAttacksYou);
+        console.log(rnThree);
+        $("#rnThree").text(rnThree);
+    
+        rnTwelve = (rnFour - attackEnemy);
+        console.log(rnTwelve);
+        $("#rnTwelve").text(rnTwelve);
+    
+    };
+    
+    if((yourCharacter = "Oogie Boogie") && (name = "Jack")) {
+    
+        rnFour = (rnFour - enemyAttacksYou);
+        console.log(rnFour);
+        $("#rnFour").text(rnFour);
+    
+        rnNine = (rnOne - attackEnemy);
+        console.log(rnNine);
+        $("#rnNine").text(rnNine);
+    
+    };
+    
+    if((yourCharacter = "Oogie Boogie") && (name = "Barrel")) {
+    
+        rnFour = (rnFour - enemyAttacksYou);
+        console.log(rnFour);
+        $("#rnFour").text(rnFour);
+    
+        rnTen = (rnTwo - attackEnemy);
+        console.log(rnTen);
+        $("#rnTen").text(rnTen);
+    
+    };
+    
+    if((yourCharacter = "Oogie Boogie") && (name = "Mayor")) {
+    
+        rnFour = (rnFour - enemyAttacksYou);
+        console.log(rnFour);
+        $("#rnFour").text(rnFour);
+    
+        rnEleven = (rnThree - attackEnemy);
+        console.log(rnEleven);
+        $("#rnEleven").text(rnEleven);
+    
+    };
+
   });
 
-  if((yourCharacter = "Jack") && (name = "Mayor")) {
-
-  };
-
-  if((yourCharacter = "Jack") && (name = "Oogie Boogie")) {
-
-  };
-
-  if((yourCharacter = "Barrel") && (name = "Jack")) {
-
-  };
-
-  if((yourCharacter = "Barrel") && (name = "Mayor")) {
-
-  };
-
-  if((yourCharacter = "Barrel") && (name = "Oogie Boogie")) {
-
-  };
-
-  if((yourCharacter = "Mayor") && (name = "Jack")) {
-
-  };
-
-  if((yourCharacter = "Mayor") && (name = "Barrel")) {
-
-  };
-
-  if((yourCharacter = "Mayor") && (name = "Oogie Boogie")) {
-
-  };
-
-  if((yourCharacter = "Oogie Boogie") && (name = "Jack")) {
-
-};
-
-if((yourCharacter = "Oogie Boogie") && (name = "Barrel")) {
-
-};
-
-if((yourCharacter = "Oogie Boogie") && (name = "Mayor")) {
-
-};
 
   
