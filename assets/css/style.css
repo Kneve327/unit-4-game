@@ -1,0 +1,246 @@
+body {
+    background-image: url(../images/backgroundimage3.jpg)
+}
+
+#title {
+    color: white;
+    margin-left: 50%;
+}
+img {
+    margin-left: 30px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    
+}
+
+#jack {
+    float: left;
+    background: gray;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 2px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#jack-two {
+    float: left;
+    background:red;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 2px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#jack-three {
+    float: left;
+    background: black;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 2px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#barrel {
+    float: left;
+    background: gray;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#barrel-two {
+    float: left;
+    background: red;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#barrel-three {
+    float: left;
+    background: black;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#mayor {
+    float: left;
+    background: gray;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+    white-space: nowrap;
+}
+
+#mayor-two {
+    float: left;
+    background: red;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#mayor-three {
+    float: left;
+    background: black;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 1px solid;
+    border-bottom: white 2px solid;
+}
+
+#oogieBoogie {
+    white-space: nowrap;
+    float: left;
+    background: gray;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 2px solid;
+    border-bottom: white 2px solid;
+}
+
+#oogieBoogie-two {
+    float: left;
+    background: red;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 2px solid;
+    border-bottom: white 2px solid;
+}
+
+#oogieBoogie-three {
+    float: left;
+    background: black;
+    width: 160px;
+    height: 200px;
+    border-top: white 2px solid;
+    border-left: white 1px solid;
+    border-right: white 2px solid;
+    border-bottom: white 2px solid;
+}
+
+h2 {
+    color: white;
+}
+.container-two {
+    visibility: hidden;
+}
+
+.container-three {
+    visibility: hidden;
+}
+
+#resetButton {
+    display: none;
+}
+
+#rnOne {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnTwo {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnThree {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnFour {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnFive {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnSix {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnSeven {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnEight {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnNine {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnTen {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnEleven {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#rnTwelve {
+    color: white;
+    position: relative;
+    left: 37%;
+}
+
+#theirDamages {
+    color: white;
+}
+
+#yourDamages {
+    color: white;
+}
